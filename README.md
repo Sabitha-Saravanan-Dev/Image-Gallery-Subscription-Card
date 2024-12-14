@@ -2,13 +2,13 @@
 
 A responsive subscription card component built using HTML, CSS
 
-Features
+## Features
 - Responsive design for optimal viewing on various devices
 - Customizable subscription plans with different pricing and features
 - Interactive elements, such as hover effects and button clicks
 - Clean and modern design
 
-Technologies Used
+## Technologies Used
 - HTML5
 - CSS
 
